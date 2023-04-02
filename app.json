@@ -17,7 +17,7 @@
         "size": "Eco"
       }
     },
-    "repository": "https://github.com/Adarsh7666/YukkiChatBot",
+    "repository": "https://github.com/Recordu/YukkiChatBot",
     "env": {
       "API_ID": {
         "description": "Get this value from my.telegram.org/apps.",
